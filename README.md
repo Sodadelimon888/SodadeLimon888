@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hola, ¿Que tal? 👋
+### Encantado de conocerte.
+### Bienvenido a mi perfil de GitHub.
+
+### Soy un desarrollador en progreso.
